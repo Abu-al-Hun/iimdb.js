@@ -1,0 +1,21 @@
+{
+  "name": "iimdb.js",
+  "version": "1.0.0",
+  "description": "iimdb.js is an Islamic library designed to store Hadiths, supplications, and live streaming links for the Holy Quran. This library simplifies the management of Islamic data in a structured and efficient manner.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node iimdb.test.js"
+  },
+  "keywords": [],
+  "author": "Skoda Studio",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.16.1",
+    "ffmpeg-static": "^5.2.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "iimdb.js": "^3.2.1",
+    "better-sqlite3": "^11.8.1",
+    "wick.db": "^2.0.3"
+  }
+}
